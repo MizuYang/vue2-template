@@ -1,24 +1,5 @@
-# vue2-template
+Vue2 Ttemplate (Vue CLI)
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Vuex
+- Bootstrap 5 (自訂變數)
+- Axios
